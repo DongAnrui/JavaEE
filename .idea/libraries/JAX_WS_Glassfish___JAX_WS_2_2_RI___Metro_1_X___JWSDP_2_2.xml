@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Struts2TypeConverter/lib/jaxws-rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

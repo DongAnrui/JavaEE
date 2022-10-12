@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<!-- START SNIPPET: xworkSample -->
+<struts>
+    <constant name="struts.costom.il8n.resources" value="message"/>
+    <package name="default" extends="struts-default">
+        <interceptors>
+            <interceptor name="myInterceptor" class="org.interceptor.CheckInterceptor"></interceptor>
+        </interceptors>
+        <action name="login" class="org.action.DongAction">
+            <result name="success">index.jsp</result>
+            <interceptor-ref name="defaultStack"></interceptor-ref>
+            <interceptor-ref name="myInterceptor"></interceptor-ref>
+        </action>
+    </package>
+</struts>
+        <!-- END SNIPPET: xworkSample -->
